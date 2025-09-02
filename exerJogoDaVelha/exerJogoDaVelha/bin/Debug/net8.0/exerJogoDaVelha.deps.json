@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "exerJogoDaVelha/1.0.0": {
+        "runtime": {
+          "exerJogoDaVelha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exerJogoDaVelha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

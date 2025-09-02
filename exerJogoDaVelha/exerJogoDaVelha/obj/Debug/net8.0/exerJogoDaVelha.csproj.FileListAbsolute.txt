@@ -1,0 +1,14 @@
+C:\Users\pp_ri\source\repos\exerJogoDaVelha\exerJogoDaVelha\bin\Debug\net8.0\exerJogoDaVelha.exe
+C:\Users\pp_ri\source\repos\exerJogoDaVelha\exerJogoDaVelha\bin\Debug\net8.0\exerJogoDaVelha.deps.json
+C:\Users\pp_ri\source\repos\exerJogoDaVelha\exerJogoDaVelha\bin\Debug\net8.0\exerJogoDaVelha.runtimeconfig.json
+C:\Users\pp_ri\source\repos\exerJogoDaVelha\exerJogoDaVelha\bin\Debug\net8.0\exerJogoDaVelha.dll
+C:\Users\pp_ri\source\repos\exerJogoDaVelha\exerJogoDaVelha\bin\Debug\net8.0\exerJogoDaVelha.pdb
+C:\Users\pp_ri\source\repos\exerJogoDaVelha\exerJogoDaVelha\obj\Debug\net8.0\exerJogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pp_ri\source\repos\exerJogoDaVelha\exerJogoDaVelha\obj\Debug\net8.0\exerJogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\pp_ri\source\repos\exerJogoDaVelha\exerJogoDaVelha\obj\Debug\net8.0\exerJogoDaVelha.AssemblyInfo.cs
+C:\Users\pp_ri\source\repos\exerJogoDaVelha\exerJogoDaVelha\obj\Debug\net8.0\exerJogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\pp_ri\source\repos\exerJogoDaVelha\exerJogoDaVelha\obj\Debug\net8.0\exerJogoDaVelha.dll
+C:\Users\pp_ri\source\repos\exerJogoDaVelha\exerJogoDaVelha\obj\Debug\net8.0\refint\exerJogoDaVelha.dll
+C:\Users\pp_ri\source\repos\exerJogoDaVelha\exerJogoDaVelha\obj\Debug\net8.0\exerJogoDaVelha.pdb
+C:\Users\pp_ri\source\repos\exerJogoDaVelha\exerJogoDaVelha\obj\Debug\net8.0\exerJogoDaVelha.genruntimeconfig.cache
+C:\Users\pp_ri\source\repos\exerJogoDaVelha\exerJogoDaVelha\obj\Debug\net8.0\ref\exerJogoDaVelha.dll
